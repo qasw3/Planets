@@ -75,7 +75,7 @@ levels.push(new level(200,0.5,[
 var l=18;
 var d=160;
 var m=[];
-for(var i=0;i<1000;i++){
+for(var i=0;i<100;i++){
     if(i===d/20){
         l*=2;
         d*=2;
