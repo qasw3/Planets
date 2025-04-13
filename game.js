@@ -2,7 +2,7 @@ var sketchProc = function(ProcessingInstance){
   with(ProcessingInstance){
     size(600,600);
       
-
+angleMode(DEGREES);
 var curLevel = 0;
 var blocks = [];
 var keys=[];
